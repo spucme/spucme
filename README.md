@@ -54,13 +54,13 @@ I am glad to welcome you here
       <img
         width="550px"
         align="left"
-        src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/refs/heads/master/api/index.js"
+        src=""
       />
     </td>
     <td>
       <img
         width="550px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=polioan&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117"
+        src=""
       />
     </td>
   </tr>
