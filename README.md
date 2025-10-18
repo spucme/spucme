@@ -47,7 +47,7 @@ I am glad to welcome you here
 />
 
 <img
-    src="[https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/python.svg](https://www.flickr.com/photos/203238511@N03/54836626506/in/dateposted-public/)"
+    src="https://www.flickr.com/photos/203238511@N03/54836626506/in/dateposted-public"
     width="100%"
     height="100%"
     alt="SPUCME"
