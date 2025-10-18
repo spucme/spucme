@@ -12,7 +12,7 @@ I am glad to welcome you here
 > [!IMPORTANT]
 > ## My tech stack:
 > <div align="center">
-<img
+> <img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
     width="36"
     height="36"
