@@ -8,8 +8,6 @@ I am glad to welcome you here
 <b>telegram</b> - <a href="https://spucme">@Cuanming</a>
 </p>
 
-> [!IMPORTANT]
-> We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github.com/anuraghazra/github-readme-stats/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
 
 
 ## My tech stack:
@@ -53,15 +51,14 @@ I am glad to welcome you here
 </div>
 
 > [!IMPORTANT]
-> We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github.com/anuraghazra/github-readme-stats/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
 
 
-## spucme
-<div align="center">
-<img
-    src="./spucme.jpg"
-    width="100%"
-    height="100%"
-    alt="SPUCME"
-/>
-</div>
+> ## spucme
+> <div align="center">
+> <img
+>    src="./spucme.jpg"
+>    width="100%"
+>    height="100%"
+>    alt="SPUCME"
+> />
+> </div>
