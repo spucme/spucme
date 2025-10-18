@@ -3,10 +3,12 @@
 __I'm a spucme. I am 16 years old, I am a web developer. I write in the following languages: Html, css, JS, PHP, Python, etc.__
 I am glad to welcome you here
 
-biography - <a href="https://spucme.ru">spucme.ru</a>
+<p align="center">
+<b>biography</b> - <a href="https://spucme.ru">spucme.ru</a>
+<b>telegram</b> - <a href="https://spucme">@Cuanming</a>
+</p>
 
-
-<p align="center" color="purple">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
   ><img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
