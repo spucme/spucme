@@ -9,6 +9,8 @@ I am glad to welcome you here
 </p>
 
 ## My tech stack:
+> [!IMPORTANT]
+> Please note that we are NOT participating in Hacktoberfest this year. As a small team, we cannot handle the increased volume of PRs and issues that the event brings. We appreciate your understanding.
 <div align="center">
 <img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
@@ -47,25 +49,6 @@ I am glad to welcome you here
     alt="HTML5"
 />
 </div>
-<p align="center">
-<table>
-  <tr>
-    <td>
-      <img
-        width="550px"
-        align="left"
-        src=""
-      />
-    </td>
-    <td>
-      <img
-        width="550px"
-        src=""
-      />
-    </td>
-  </tr>
-</table>
-</p>
 
 ## spucme
 <div align="center">
