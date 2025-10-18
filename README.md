@@ -3,8 +3,9 @@
 __I'm a spucme. I am 16 years old, I am a web developer. I write in the following languages: Html, css, JS, PHP, Python, etc.__
 I am glad to welcome you here
 
-> [!LALALA]
+> [!IMPORTANT]
 > We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github.com/anuraghazra/github-readme-stats/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
+
 
 
 <p align="center">
