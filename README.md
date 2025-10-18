@@ -50,9 +50,10 @@ I am glad to welcome you here
 />
 </div>
 > [!IMPORTANT]
-> ## spucme
-> <div align="center">
-> <img
+> салам
+## spucme
+<div align="center">
+<img
     src="./spucme.jpg"
     width="100%"
     height="100%"
