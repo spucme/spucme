@@ -8,7 +8,7 @@ I am glad to welcome you here
 <b>telegram</b> - <a href="https://spucme">@Cuanming</a>
 </p>
 
-<div align="center">
+<div align="center" background-color="yellow">
 <img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
     width="36"
