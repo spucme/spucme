@@ -9,10 +9,10 @@ I am glad to welcome you here
 </p>
 
 
-> [!IMPORTANT]
-> ## My tech stack:
-> <div align="center">
-> <img
+
+## My tech stack:
+<div align="center">
+<img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
     width="36"
     height="36"
@@ -49,10 +49,10 @@ I am glad to welcome you here
     alt="HTML5"
 />
 </div>
-
-## spucme
-<div align="center">
-  <img
+> [!IMPORTANT]
+> ## spucme
+> <div align="center">
+> <img
     src="./spucme.jpg"
     width="100%"
     height="100%"
