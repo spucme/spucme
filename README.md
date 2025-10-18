@@ -1,4 +1,4 @@
-<p align="center" color="purple">
+<p align="center" color="black">
   ## Hi there 👋
 __I'm a spucme. I am 16 years old, I am a web developer. I write in the following languages: Html, css, JS, PHP, Python, etc.__
 I am glad to welcome you here
