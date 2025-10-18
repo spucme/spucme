@@ -3,8 +3,7 @@
 __I'm a spucme. I am 16 years old, I am a web developer. I write in the following languages: Html, css, JS, PHP, Python, etc.__
 I am glad to welcome you here
 
-> [!IMPORTANT]
->  I work alone or with a small team, please add 👍 to my profile
+
 
 
 
@@ -13,7 +12,8 @@ I am glad to welcome you here
 <b>telegram</b> - <a href="https://spucme">@Cuanming</a>
 </p>
 
-
+> [!IMPORTANT]
+>  I work alone or with a small team, please add 👍 to my profile
 
 > ## My tech stack:
 > <div align="center">
