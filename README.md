@@ -47,7 +47,7 @@ I am glad to welcome you here
 />
 
 <img
-    src="https://www.flickr.com/photos/203238511@N03/54836626506/in/dateposted-public"
+    src="./spucme.jpg"
     width="100%"
     height="100%"
     alt="SPUCME"
