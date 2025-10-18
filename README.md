@@ -27,5 +27,24 @@ I am glad to welcome you here
     height="36"
     alt="HTML5"
 />
+<img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/css.svg"
+    width="36"
+    height="36"
+    alt="HTML5"
+/>
+<img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/php.svg"
+    width="36"
+    height="36"
+    alt="HTML5"
+/>
+<img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/python.svg"
+    width="36"
+    height="36"
+    alt="HTML5"
+/>
+
 
 </p>
