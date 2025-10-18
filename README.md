@@ -3,15 +3,14 @@ __I'm a spucme. I am 16 years old, I am a web developer. I write in the followin
 I am glad to welcome you here
 
 biography - spucme.ru
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
-  ><img
+<p>
+  <img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
     width="36"
     height="36"
     alt="JavaScript"
     color="purple"
-/></a>
+/>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"
   ><img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg"
