@@ -9,6 +9,12 @@ I am glad to welcome you here
 </p>
 
 <div align="center">
+  <img
+    src="./spucme.jpg"
+    width="100%"
+    height="100%"
+    alt="SPUCME"
+/>
 <img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
     width="36"
@@ -45,13 +51,4 @@ I am glad to welcome you here
     height="36"
     alt="HTML5"
 />
-
-<img
-    src="./spucme.jpg"
-    width="100%"
-    height="100%"
-    alt="SPUCME"
-/>
-
-
 </div>
