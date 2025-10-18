@@ -3,7 +3,7 @@
 __I'm a spucme. I am 16 years old, I am a web developer. I write in the following languages: Html, css, JS, PHP, Python, etc.__
 I am glad to welcome you here
 
-biography - spucme.ru
+biography - <a href="https://spucme.ru">spucme.ru</a>
 
 
 <p align="center" color="purple">
