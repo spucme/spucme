@@ -1,10 +1,12 @@
-## Hi there 👋
+<p align="center" color="purple">
+  ## Hi there 👋
 __I'm a spucme. I am 16 years old, I am a web developer. I write in the following languages: Html, css, JS, PHP, Python, etc.__
 I am glad to welcome you here
 
 biography - spucme.ru
+</p>
 
-<p align="center">
+<p align="center" color="purple">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
   ><img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
