@@ -51,6 +51,11 @@ I am glad to welcome you here
     alt="HTML5"
 />
 </div>
+
+> [!IMPORTANT]
+> We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github.com/anuraghazra/github-readme-stats/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
+
+
 ## spucme
 <div align="center">
 <img
