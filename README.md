@@ -33,3 +33,5 @@ biography - spucme.ru
     height="36"
     alt="Node.js"
 /></a>
+
+</p>
