@@ -4,7 +4,7 @@ __I'm a spucme. I am 16 years old, I am a web developer. I write in the followin
 I am glad to welcome you here
 
 > [!IMPORTANT]
-> We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github.com/anuraghazra/github-readme-stats/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
+>  I work alone or with a small team, please add 👍 to my profile
 
 
 
