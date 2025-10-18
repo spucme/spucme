@@ -8,13 +8,8 @@ I am glad to welcome you here
 <b>telegram</b> - <a href="https://spucme">@Cuanming</a>
 </p>
 
+__My tech stack:__
 <div align="center">
-  <img
-    src="./spucme.jpg"
-    width="100%"
-    height="100%"
-    alt="SPUCME"
-/>
 <img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
     width="36"
@@ -50,5 +45,14 @@ I am glad to welcome you here
     width="36"
     height="36"
     alt="HTML5"
+/>
+</div>
+
+<div align="center">
+  <img
+    src="./spucme.jpg"
+    width="100%"
+    height="100%"
+    alt="SPUCME"
 />
 </div>
