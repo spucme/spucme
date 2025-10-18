@@ -21,5 +21,11 @@ I am glad to welcome you here
     height="36"
     alt="TypeScript"
 />
+<img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/html5.svg"
+    width="36"
+    height="36"
+    alt="HTML5"
+/>
 
 </p>
